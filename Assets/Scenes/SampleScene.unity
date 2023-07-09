@@ -563,22 +563,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 511259866}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9b78445c2d3b92458ffb88bc57ab296, type: 3}
+  m_Script: {fileID: 11500000, guid: 89da4f59f66c447ff8d8920f9b006333, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   obstacles:
   - {fileID: 4022857639926878145, guid: e9e146d2bcb7a8e4e8bae3a3534fb839, type: 3}
   - {fileID: 8265847533467250229, guid: 7d9d1664621e2f84d8920667c674cb77, type: 3}
   - {fileID: 8362402499256552792, guid: 53c96e91af053fa4e903b887d021a64c, type: 3}
-  timeBetweenSpawn_initial: 3
-  timeBetweenSpawn_growth: 0.05
-  obstacleSpeed_growth: 0.1
-  spawnTime: 0
-  difficultyIncrease_growth: 1
-  difficultyIncrease: 10
-  difficulty: 1
-  lane_width: 0
-  timer: 0
 --- !u!4 &511259868
 Transform:
   m_ObjectHideFlags: 0
@@ -772,7 +763,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 631794592}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef8f7ac5a76bbc446915cd6a66435012, type: 3}
+  m_Script: {fileID: 11500000, guid: 12c0e7cdedebf49c991e57ef6fd70fdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   backgroundSpeed: 1
@@ -1488,16 +1479,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1906898728}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bedb99f4c17d0cd4785cfbb53695561b, type: 3}
+  m_Script: {fileID: 11500000, guid: 7e9e2b91616f54aef9acc266ad37a134, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 0}
-  playerDirection: {x: 0, y: 0}
-  player: {fileID: 0}
-  fp: {x: 0, y: 0, z: 0}
-  lp: {x: 0, y: 0, z: 0}
-  dragDistance: 0
-  lane_width: 0
 --- !u!50 &1906898730
 Rigidbody2D:
   serializedVersion: 4
@@ -1574,8 +1558,8 @@ GameObject:
   - component: {fileID: 1926572849}
   - component: {fileID: 1926572848}
   - component: {fileID: 1926572852}
-  - component: {fileID: 1926572854}
   - component: {fileID: 1926572853}
+  - component: {fileID: 1926572854}
   m_Layer: 5
   m_Name: GUI
   m_TagString: Untagged
@@ -1704,7 +1688,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1926572847}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 95fbb5ce94c501b45b4a5811f1dc0fa9, type: 3}
+  m_Script: {fileID: 11500000, guid: f738d2f7630ac475bac9ac3dbbd5d229, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverPanel: {fileID: 118302242}
