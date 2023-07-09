@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Coins : obstacle
+public class Coins : Obstacle
 {
     // Start is called before the first frame update
     void Start()
