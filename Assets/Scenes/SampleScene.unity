@@ -566,8 +566,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9b78445c2d3b92458ffb88bc57ab296, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstacle: {fileID: 4022857639926878145, guid: e9e146d2bcb7a8e4e8bae3a3534fb839, type: 3}
-  timeBetweenSpawn: 5
+  obstacles:
+  - {fileID: 4022857639926878145, guid: e9e146d2bcb7a8e4e8bae3a3534fb839, type: 3}
 --- !u!4 &511259868
 Transform:
   m_ObjectHideFlags: 0
