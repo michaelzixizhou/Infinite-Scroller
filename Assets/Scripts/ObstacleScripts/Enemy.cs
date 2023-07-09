@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class enemy : obstacle
+public class Enemy : obstacle
 {
     private GameObject player;
 

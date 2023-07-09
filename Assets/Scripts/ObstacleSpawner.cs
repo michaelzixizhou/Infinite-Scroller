@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class obstacle_spawner : MonoBehaviour
+public class ObstacleSpawner : MonoBehaviour
 {
     public GameObject[] obstacles;
     private float timeBetweenSpawn_initial = 3;
@@ -46,13 +46,13 @@ public class obstacle_spawner : MonoBehaviour
         switch (random_spawn)
         {
             case 0:
-                Instantiate(obstacles[random_obstacle], new Vector2(-lane_width, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
+                Instantiate(obstacles[random_obstacle], new Vector2(-lane_width, 10), transform.rotation).GetComponent<Obstacle>().speed = GameManager.instance.speed;
                 break;
             case 1:
-                Instantiate(obstacles[random_obstacle],  new Vector2(0, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
+                Instantiate(obstacles[random_obstacle],  new Vector2(0, 10), transform.rotation).GetComponent<Obstacle>().speed = GameManager.instance.speed;
                 break;
             case 2:
-                Instantiate(obstacles[random_obstacle], new Vector2(lane_width, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
+                Instantiate(obstacles[random_obstacle], new Vector2(lane_width, 10), transform.rotation).GetComponent<Obstacle>().speed = GameManager.instance.speed;
                 break;
         }
 

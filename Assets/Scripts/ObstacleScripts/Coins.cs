@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class fuel : obstacle
+public class Coins : obstacle
 {
     // Start is called before the first frame update
     void Start()
@@ -23,5 +23,5 @@ public class fuel : obstacle
     void OnTriggerEnter2D(Collider2D OtherObject)
     {
         Destroy(this.gameObject);
-    } 
+    }  
 }
