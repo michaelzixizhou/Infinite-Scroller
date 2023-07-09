@@ -7,18 +7,18 @@ public class obstacle_spawner : MonoBehaviour
     public GameObject[] obstacles;
     private float timeBetweenSpawn_initial = 3;
     private float timeBetweenSpawn_growth = 0.05f;
-    private float obstacleSpeed_initial = 2;
     private float obstacleSpeed_growth = 0.1f;
     private float spawnTime;
     private float difficultyIncrease_growth = 1;
     private float difficultyIncrease = 10;
     private int difficulty = 1;
+    private float lane_width;
 
     float timer;
     // Start is called before the first frame update
     void Start()
     {
-
+        lane_width = GameManager.instance.lane_width;
     }
 
     // Update is called once per frame
@@ -26,7 +26,7 @@ public class obstacle_spawner : MonoBehaviour
     {
         if (Time.time > difficultyIncrease)
         {
-            obstacleSpeed_initial += obstacleSpeed_growth;
+            GameManager.instance.speed += obstacleSpeed_growth;
             timeBetweenSpawn_initial -= timeBetweenSpawn_growth;
             difficulty++;
             difficultyIncrease = Time.time + difficultyIncrease_growth;
@@ -36,7 +36,7 @@ public class obstacle_spawner : MonoBehaviour
             Spawn();
             spawnTime = Time.time + Random.Range(timeBetweenSpawn_initial*0.6f, timeBetweenSpawn_initial);
         }
-        Debug.Log(obstacleSpeed_initial);
+        Debug.Log(GameManager.instance.speed);
     }
 
     void Spawn()
@@ -46,13 +46,13 @@ public class obstacle_spawner : MonoBehaviour
         switch (random_spawn)
         {
             case 0:
-                Instantiate(obstacles[random_obstacle], transform.position + new Vector3(-3, 10, -10), transform.rotation).GetComponent<obstacle>().speed = obstacleSpeed_initial;
+                Instantiate(obstacles[random_obstacle], new Vector2(-lane_width, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
                 break;
             case 1:
-                Instantiate(obstacles[random_obstacle], transform.position + new Vector3(-1, 10, -10), transform.rotation).GetComponent<obstacle>().speed = obstacleSpeed_initial;
+                Instantiate(obstacles[random_obstacle],  new Vector2(0, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
                 break;
             case 2:
-                Instantiate(obstacles[random_obstacle], transform.position + new Vector3(1, 10, -10), transform.rotation).GetComponent<obstacle>().speed = obstacleSpeed_initial;
+                Instantiate(obstacles[random_obstacle], new Vector2(lane_width, 10), transform.rotation).GetComponent<obstacle>().speed = GameManager.instance.speed;
                 break;
         }
 

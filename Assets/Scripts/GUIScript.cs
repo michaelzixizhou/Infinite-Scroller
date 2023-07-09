@@ -16,7 +16,9 @@ public class GUIScript : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        num_score += 1;
-        _score.text = num_score.ToString();
+        if (GameManager.instance.game_over){
+            num_score += 1;
+            _score.text = num_score.ToString();
+        }
     }
 }

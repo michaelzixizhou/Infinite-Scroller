@@ -32,6 +32,4 @@ public class SettingScript : MonoBehaviour
         Time.timeScale = 1;
         pause_menu.SetActive(false);
     }
-
-
 }

@@ -10,11 +10,14 @@ public class player_movement : MonoBehaviour
     private Vector3 fp;   //First touch position
     private Vector3 lp;   //Last touch position
     private float dragDistance;  //minimum distance for a swipe to be registered
-    // Start is called before the first frame update
+    // private float height = 2f * Camera.main.orthographicSize;
+    private float lane_width;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         this.transform.position = new Vector2(0, -4);
+        lane_width = GameManager.instance.lane_width;
     }
 
     // Update is called once per frame
@@ -44,13 +47,13 @@ public class player_movement : MonoBehaviour
                     {   //If the horizontal movement is greater than the vertical movement...
                         if ((lp.x > fp.x) && this.transform.position.x < 2)  //If the movement was to the right)
                         {   //Right swipe
-                            Debug.Log(this.transform.position.x);
-                            this.transform.position = new Vector2(transform.position.x+2,-4);
+                            Debug.Log(Screen.currentResolution.width);
+                            this.transform.position = new Vector2(transform.position.x + lane_width, -4);
                         }
                         else if ((lp.x < fp.x) && this.transform.position.x > -2)
                         {   //Left swipe
-                            Debug.Log(this.transform.position.x);
-                            this.transform.position = new Vector2(transform.position.x-2,-4);
+                            Debug.Log(Screen.currentResolution.width);
+                            this.transform.position = new Vector2(transform.position.x - lane_width, -4);
                         }
                     }
                     else
