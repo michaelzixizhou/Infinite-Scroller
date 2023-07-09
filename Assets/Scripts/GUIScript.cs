@@ -7,7 +7,7 @@ public class GUIScript : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] private TMP_Text _score;
-    private int num_score = 0;
+    public int num_score = 0;
     void Start()
     {
         
