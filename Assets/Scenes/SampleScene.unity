@@ -568,6 +568,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obstacles:
   - {fileID: 4022857639926878145, guid: e9e146d2bcb7a8e4e8bae3a3534fb839, type: 3}
+  - {fileID: 8265847533467250229, guid: 7d9d1664621e2f84d8920667c674cb77, type: 3}
+  - {fileID: 8362402499256552792, guid: 53c96e91af053fa4e903b887d021a64c, type: 3}
 --- !u!4 &511259868
 Transform:
   m_ObjectHideFlags: 0
