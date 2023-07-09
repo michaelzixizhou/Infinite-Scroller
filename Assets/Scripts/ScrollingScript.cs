@@ -5,6 +5,7 @@ using TMPro;
 
 public class ScrollingScript : MonoBehaviour
 {
+    // scrollingScript, scrolling_script, ScrollingScript
     [SerializeField] public MeshRenderer meshRenderer;
     [SerializeField] public GameObject GUI;
     [SerializeField] ColorChangeScript colorChanger;
