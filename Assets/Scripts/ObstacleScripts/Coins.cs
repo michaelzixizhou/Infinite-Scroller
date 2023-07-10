@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class Coins : Obstacle
 {
+    private GameObject coin_counter;
     // Start is called before the first frame update
     void Start()
     {
-
+        coin_counter = GameObject.FindGameObjectWithTag("GUI");
     }
 
     // Update is called once per frame
@@ -22,6 +23,7 @@ public class Coins : Obstacle
 
     void OnTriggerEnter2D(Collider2D OtherObject)
     {
+        coin_counter.GetComponent<GUIScript>().num_coins++;
         Destroy(this.gameObject);
     }  
 }
