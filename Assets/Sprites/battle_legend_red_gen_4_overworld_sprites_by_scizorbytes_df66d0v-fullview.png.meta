@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 70d609ff40c6d4a78a674c56f616d0c6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 196
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9965222af424471d9edeba432d925d5
+      internalID: 491801278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456259df9b164b7c9588ab4e5dcf6b8
+      internalID: -1777302900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 196
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e156b9aaf4440b2b3036efd2a999d6
+      internalID: -933030120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 194
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af630f2ddea8b4681a153df11669f0d6
+      internalID: -1102768085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5fb81a5f914d6f9db1f18390491bc
+      internalID: 766882384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 132
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01371a1f256e74c4f8daba0d513efbe8
+      internalID: 1039004804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 132
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1263254e345c4eb5b97e13b295e814f
+      internalID: 395368987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 132
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8a9fc3075d64648b13b48414f42436
+      internalID: 1459681409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 68
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede7ad21ac3284f098ef3df17a2acbeb
+      internalID: 152830390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb358f798b240149f1415124183851
+      internalID: -1028915227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 68
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9f68d26412948e7b3379d21ffb105f
+      internalID: 1997877521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 69
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598905e7df9314ec7986657b54882399
+      internalID: 1347269802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b40dbe1fe654149ac736905766ec3e
+      internalID: -1172221108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2b32311bfc4be6ba8c03ad5a07c20
+      internalID: -2106512624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 4
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4608022d3b59640ef878f12d428e35b6
+      internalID: -521531712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386421adf324847d98d373d1838570b0
+      internalID: -1126420667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 252
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b009967774cea44d7be1c3e70670baed
+      internalID: 1019836787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_2: -933030120
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_10: 1997877521
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_13: -2106512624
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_0: 491801278
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_16: 1019836787
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_8: 152830390
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_1: -1777302900
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_4: 766882384
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_12: -1172221108
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_15: -1126420667
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_14: -521531712
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_3: -1102768085
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_9: -1028915227
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_7: 1459681409
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_11: 1347269802
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_6: 395368987
+      battle_legend_red_gen_4_overworld_sprites_by_scizorbytes_df66d0v-fullview_5: 1039004804
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

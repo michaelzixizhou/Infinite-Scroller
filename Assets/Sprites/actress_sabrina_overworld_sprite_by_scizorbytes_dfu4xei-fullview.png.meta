@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: e1a53bf6df56e4674b004924b0266ed6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 220
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e656aaec14d4e41b84c6892f5d1719
+      internalID: 565908511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 220
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3bdc2109aa248b8b9c0ce01184913d
+      internalID: -1210806810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b136d19e04534abe8db314c00e9fefe
+      internalID: 1252920434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ac8a1e41bf43e2813b015eea2b6f9
+      internalID: -1037725766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 143
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597f46dfe20174a8b8abb292d878a9fd
+      internalID: -854506411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 146
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311b76c78841a41dda24cce1388281bc
+      internalID: 656955333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0c3072ff187403387b6fe254dbbea7
+      internalID: -556855338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585647fb956814d789e37af39143f491
+      internalID: -1343268807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 74
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd9ec8ab20fd4c439c116ace33a18c6
+      internalID: 1564794099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e6ebd93439d4d049fcead4c236efa4
+      internalID: -2048719045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab0bc57a72354e16a2d79a075eb9eb5
+      internalID: 1445624952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 76
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeb8ff244f7e48c9873020ecc93cc68
+      internalID: -754542557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad0ba064e7944218364b6c6dd805ae
+      internalID: 1611250012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8378bf245a74eac961498f1e0351f1
+      internalID: 623992904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e415ebe4cad43e49ec2b73ff9cdcd7
+      internalID: -1300711064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fdf6cad0e348029b69c6a0fe04529
+      internalID: 912684184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_6: -556855338
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_3: -1037725766
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_1: -1210806810
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_9: -2048719045
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_0: 565908511
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_5: 656955333
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_12: 1611250012
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_2: 1252920434
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_8: 1564794099
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_10: 1445624952
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_14: -1300711064
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_11: -754542557
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_7: -1343268807
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_13: 623992904
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_4: -854506411
+      actress_sabrina_overworld_sprite_by_scizorbytes_dfu4xei-fullview_15: 912684184
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

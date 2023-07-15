@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 6e0dcc1e75e9a4758af728d22095c32b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 220
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27721e25cfbe43478db1363ace13bde
+      internalID: -154620129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b309f6bf41fff4501bbea96e5e8ae027
+      internalID: -1555168477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 220
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5a2994f261421190cc39918af64df
+      internalID: 508645768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 220
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329667a6f0eb4bce82a5f1b1b9f2c4f
+      internalID: -1754672136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 149
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c3b0ba8e79142d288930fec0777a12
+      internalID: -790376457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30392d61f5f834ec08f3767dfd16f219
+      internalID: 910566887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 149
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82c76899b544ffe867d5c455e793b6
+      internalID: -984710474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 149
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da77f4e1dda94ce0befde26ea6bfc1f
+      internalID: -1509265462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 76
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0cc4da1a5b945a8a5a6817599800ac
+      internalID: -1868205550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4847b083ac9fe47be80e175370a7fc99
+      internalID: -1277499953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e025a34fc74aac9f3fcc4ffe87383
+      internalID: 323208335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 76
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e8befa1140448ff9bd7c4fb2f77264
+      internalID: 1697719279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa392fbc3ce47bf9811f7cbbb2928f
+      internalID: -594012970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8d7254ba7964076b940e85b9939c1c
+      internalID: -1964879624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de644c8cd6e4f4948910fa9f267cf1ad
+      internalID: 32960766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd1cb2b5e5d4d87ae4e91f4c1283b0
+      internalID: 1658993622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_14: 32960766
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_6: -984710474
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_4: -790376457
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_13: -1964879624
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_2: 508645768
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_12: -594012970
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_7: -1509265462
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_0: -154620129
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_9: -1277499953
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_11: 1697719279
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_3: -1754672136
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_10: 323208335
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_15: 1658993622
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_8: -1868205550
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_5: 910566887
+      serena_overworld_sprite_by_scizorbytes_dfskumk-fullview_1: -1555168477
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
